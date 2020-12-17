@@ -1,6 +1,6 @@
 # CityBikeAnalytics-TableauProject
 
-We made an attempt to combine csv files using Python and we were successful at creating the correct code. There was, however, issues with the data itself and time constraints pushed us to move on to creating the visualizations and report without combining the csv files.The hope is to be able to return and munge the data further. Hopefully, we will be successful and able to create even more visualizations and a deeper report. 
+We made an attempt to combine csv files using Python and we were successful at creating the correct code. There was, however, issues with the data itself and time constraints pushed us to move on to creating the visualizations and report without combining the csv files. The hope is to be able to return and munge the data further. Hopefully, we will be successful and plan to create even more visualizations and a deeper report. 
 
 Using Tableau we created 8 visualizations, 3 story boards, and 2 dashboards visualizing the summer of 2019 bike data. We found some interesting trends and are attaching a report of our findings and suggested next possible steps. 
 
